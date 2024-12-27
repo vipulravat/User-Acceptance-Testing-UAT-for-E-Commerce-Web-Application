@@ -75,7 +75,7 @@ After executing the test scenarios, document the results in the test-results dir
 
 **Test Scenario**: Product Search  
 **Date**: December 26, 2024  
-**Tester**: John Doe  
+**Tester**: Vipul Ravat  
 **Results**: Pass  
 **Comments**: All relevant products were displayed correctly.
 
